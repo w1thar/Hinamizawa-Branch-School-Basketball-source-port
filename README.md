@@ -1,7 +1,7 @@
 # Hinamizawa Branch School Basketball — source port
 
 A source-level reconstruction of the fan-made *Higurashi no Naku Koro ni* 3-on-3 basketball
-minigame (`basket_v101.exe`, 2002), rebuilt from the original binary with Ghidra and rewritten
+minigame (`basket_v101.exe`, 2004), rebuilt from the original binary with Ghidra and rewritten
 as portable C++.
 
 - Plays the same as the original: title/attract sequence, Normal / Club (部活) / Practice (練習)
